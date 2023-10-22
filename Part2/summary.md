@@ -15,5 +15,5 @@ Maslow(매쓸로우)의 욕구 5단계 이론
 **"Homo Ludens(호모 루덴스)"** : 유희하는 인간   
 -> 놀이는 문화보다 더 오래된 것, 문명은 놀이 속에서 발전해왔다.   
 
-**"Magic Circle"**
-![Alt text](Part2/picture/Magic Circle.png)
+**"Magic Circle"**   
+<img src="/path/to/img.jpg">
