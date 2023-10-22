@@ -16,4 +16,4 @@ Maslow(매쓸로우)의 욕구 5단계 이론
 -> 놀이는 문화보다 더 오래된 것, 문명은 놀이 속에서 발전해왔다.   
 
 **"Magic Circle"**   
-<img src="Part2/picture/Magic Circle.png">
+<img src="/Part2/picture/Magic Circle.png">
