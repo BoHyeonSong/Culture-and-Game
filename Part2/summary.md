@@ -18,4 +18,7 @@ Maslow(매쓸로우)의 욕구 5단계 이론
 **"Magic Circle"**   
 <img src="/Part2/picture/Magic Circle.png" width = "60%" height="40%">   
 "플레이가 시작되는 순간 현실은 바뀐다”   
-인류와 함께 존재해온 가상의 놀이터, 어떤 목적을 위해 플레이어끼리 만들어 낸 가상의 영역, 게임은 현실과 분리된 별도의 영역
+인류와 함께 존재해온 가상의 놀이터, 어떤 목적을 위해 플레이어끼리 만들어 낸 가상의 영역, 게임은 현실과 분리된 별도의 영역   
+**"Magic Wand"**   
+<img src="/Part2/picture/MagicWand.png" width = "60%" height="40%">   
+단순한 나뭇가지라도 총이나 칼등 의미를 부여할 수 있음
