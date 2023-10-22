@@ -20,4 +20,5 @@
 “ 플레이어의 **선택** 이 시나리오에 반영되고
 풍부한 **피드백** 과 함께 돌아오는 것 ”
 
-## 게임 시나리오 유
+## 게임 시나리오 유형
+<img src="/Part4/picture/GameScenario.png" width = "60%" height="40%">
