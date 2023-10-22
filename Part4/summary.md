@@ -21,4 +21,4 @@
 풍부한 **피드백** 과 함께 돌아오는 것 ”
 
 ## 게임 시나리오 유형
-<img src="/Part4/picture/GameScenario.png" width = "60%" height="40%">
+<img src="/Part4/picture/GameScenario.png" width = "80%" height="60%">
